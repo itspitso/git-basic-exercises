@@ -1,0 +1,1000 @@
+ 1064  git add 1-who_am_i.sh
+ 1065  mv 1-who_am_i.sh  1-who_am_i.sh
+ 1066  git add 1-who_am_i.sh
+ 1067  ls -l
+ 1068  git add 1_who_am_i.sh
+ 1069  mv 1_who_am_i.sh 1-who_am_i.sh
+ 1070  git add 1-who_am_i.sh
+ 1071  git commit -m 'Add 1-who_am_i.sh'
+ 1072  git push origin main
+ 1073  mv 1-who_am_i.sh 1-who_am_i
+ 1074  git commit -m '1-who_am_i'
+ 1075  git push origin main
+ 1076  exit
+ 1077  ls
+ 1078  cd ~
+ 1079  ls
+ 1080  pwd
+ 1081  mkdir alx_be_python
+ 1082  cd alx_be_python
+ 1083  cd ..
+ 1084  ls
+ 1085  rm alx_be_python
+ 1086  rm -r alx_be_python
+ 1087  git clone git@github.com:itspitso/alx_be_python.git
+ 1088  touch README.md
+ 1089  code README.md
+ 1090  git add README.md
+ 1091  mv README.md alx_be_python
+ 1092  cd alx_be_python
+ 1093  ls
+ 1094  git add README.md
+ 1095  git commit -m 'Initial commit with README.md'
+ 1096  git push origin main
+ 1097  touch basic_operations.py
+ 1098  code basic_operations.py
+ 1099  git add basic_operations.py
+ 1100  git commit -m 'Add basic_operations.py'
+ 1101  git push origin main
+ 1102  ls
+ 1103  mkdir python_introduction
+ 1104  mv README.md python_introduction
+ 1105  mv basic_operations.py python_introduction
+ 1106  ls
+ 1107  cd python_introduction
+ 1108  cd ..
+ 1109  git add . 
+ 1110  git commit -m 'Add python_introduction folder and basic_operations.py'
+ 1111  git push origin main
+ 1112  cd python_introduction
+ 1113  ls
+ 1114  touch simple_interest.py
+ 1115  ls
+ 1116  code simple_interest.py
+ 1117  0.05*100
+ 1118  ./simple_interest.py
+ 1119  chmod u+x simple_interest.py
+ 1120  ./simple_interest.py
+ 1121  code simple_interest.py
+ 1122  git add simple_interest.py
+ 1123  git commit -m 'Add simple_interest.py'
+ 1124  git push origin main
+ 1125  cd ~
+ 1126  ls
+ 1127  cd alx_be_python
+ 1128  ls
+ 1129  cd python_introduction
+ 1130  ls
+ 1131  touch rectangle_area.py
+ 1132  code rectange_area.py
+ 1133  ls
+ 1134  code rectangle_area.py
+ 1135  git add rectangle_area.py
+ 1136  git commit -m 'Add rectangle_area.py'
+ 1137  git push origin main
+ 1138  clear
+ 1139  touch hours_to_seconds.py
+ 1140  code hours_to_seconds.py
+ 1141  git add hours_to_seconds.py
+ 1142  git commit -m 'Add hours_to_seconds.py'
+ 1143  git push origin main
+ 1144  code hours_to_seconds.py
+ 1145  git add hours_to_seconds.py
+ 1146  git commit -m 'Fix hours to seconds calculation'
+ 1147  git push origin main
+ 1148  touch future_age_calculator.py
+ 1149  code future_age_calculator.py
+ 1150  git add future_age_calculator.py
+ 1151  git commit -m 'Add future_age_calculator.py'
+ 1152  git push origin main
+ 1153  code future_age_calculator.py
+ 1154  git add future_age_calculator.py
+ 1155  git commit -m 'Fix future age calculator script'
+ 1156  git push origin main
+ 1157  touch finance_calculator.py
+ 1158  code finance_calculator.py
+ 1159  git add finance_calculator.py
+ 1160  git commit -m 'Add extra script'
+ 1161  git push origin main
+ 1162  code finance_calculator.py
+ 1163  git add finance_calculator.py
+ 1164  git commit -m 'Fix variable names in finance-calculator.py'
+ 1165  git push origin main
+ 1166  cd ~
+ 1167  ls
+ 1168  cd home
+ 1169  cd pitso
+ 1170  ls
+ 1171  cd ..
+ 1172  ls
+ 1173  cd ..
+ 1174  ls
+ 1175  cd pitso
+ 1176  ls
+ 1177  cd home
+ 1178  ls
+ 1179  cd ..
+ 1180  exit
+ 1181  pwd
+ 1182  ls
+ 1183  cd The-Odin-Project
+ 1184  ls
+ 1185  cd odin-javascript
+ 1186  ls
+ 1187  cd ..
+ 1188  ls
+ 1189  cd repos
+ 1190  ls
+ 1191  javascript exercises
+ 1192  cd javascript-exercises
+ 1193  ls
+ 1194  code README.md
+ 1195  code 08_calculator
+ 1196  cd The-Odin-Project
+ 1197  ls
+ 1198  cd repos
+ 1199  ls
+ 1200  cd javascript-exercises
+ 1201  ls
+ 1202  cd 08-calulator
+ 1203  cd 08_calculator
+ 1204  ls
+ 1205  cat README.md
+ 1206  code calculator.js
+ 1207  ls
+ 1208  cat calculator.spec.js
+ 1209  cd ~
+ 1210  ls
+ 1211  cd alx_be_python
+ 1212  mkdir control-flow
+ 1213  cd control-flow
+ 1214  touch weather_advice.py
+ 1215  code weather_advice.py
+ 1216  python weather_advice.py
+ 1217  python3 weather_advice.py
+ 1218  cd ..
+ 1219  git add control-flow
+ 1220  git commit -m 'Add control-flower directory with weather_advice.py script'
+ 1221  git push origin main
+ 1222  cd control-flow
+ 1223  ls
+ 1224  touch match_case_calculator.py
+ 1225  code match_case_calculator.py
+ 1226  ls
+ 1227  python3 match_case_calculator.py
+ 1228  git add match_case_calculator.py
+ 1229  git commit -m 'Add match_case_calculator.py'
+ 1230  git push origin main
+ 1231  touch multiplication_table.py
+ 1232  ls
+ 1233  code multiplication_table.py
+ 1234  python3 multiplication_table.py
+ 1235  code multiplication_table.py
+ 1236  python3 multiplication_table.py
+ 1237  git add multiplication_table.py
+ 1238  git commit -m 'Add multiplication_table.py script'
+ 1239  git push origin main
+ 1240  touch pattern_drawing.py
+ 1241  python3 pattern_drawing.py
+ 1242  git add pattern_drawing.py
+ 1243  git commit -m 'Add pattern_drawing.py'
+ 1244  git push origin main
+ 1245  python3 pattern_drawing.py
+ 1246  git add pattern_drawing.py
+ 1247  git commit -m 'Fix error in pattern_drawing.py'
+ 1248  git push origin main
+ 1249  python3 pattern_drawing.py
+ 1250  git add pattern_drawing.py
+ 1251  git commit -m 'Fixed input variable in pattern_drawing.py'
+ 1252  git push origin main
+ 1253  git add pattern_drawing.py
+ 1254  git commit -m 'Changed the print statement to include the asterisk as a direct string instead of as a variable'
+ 1255  git push origin main
+ 1256  touch daily_reminder.py
+ 1257  python3 daily_reminder.py
+ 1258  git add daily_reminder.py
+ 1259  git commit -m 'Add daily_reminder.py'
+ 1260  git push origin main
+ 1261  git add daily_reminder.py
+ 1262  git commit -m 'Changed the prompt messages in daily_reminder.py'
+ 1263  git push origin main
+ 1264  git add daily_reminder.py
+ 1265  git commit -m 'Removed question mark in daily_reminder.py'
+ 1266  git push origin main
+ 1267  git add daily_reminder.py
+ 1268  git commit -m 'Added the words reminder and note to the messages in daily_reminder.py'
+ 1269  git push origin main
+ 1270  git add daily_reminder.py
+ 1271  git commit -m 'Added the word reminder to the message for medium priority tasks in daily_reminder.py'
+ 1272  git push origin main
+ 1273  git add daily_reminder.py
+ 1274  git commit -m 'Add daily_reminder.py'
+ 1275  git push origin main
+ 1276  git add daily_reminder.py
+ 1277  git commit -m 'Add daily_reminder.py'
+ 1278  git push origin main
+ 1279  ls /
+ 1280  pwd
+ 1281  ls
+ 1282  ls /
+ 1283  cd /
+ 1284  ls
+ 1285  pwd
+ 1286  cd home
+ 1287  cd ~
+ 1288  pwd
+ 1289  cd ..
+ 1290  pwd
+ 1291  cd home
+ 1292  ls
+ 1293  cd Documents
+ 1294  cd UMUZI
+ 1295  ls
+ 1296  cd beginning_bash
+ 1297  ls
+ 1298  git clone git@github.com:Umuzi-org/Mmapitso-Mashilo-394-bash-for-bootcamp-.git
+ 1299  ls
+ 1300  mv question_1.md Mmapitso-Mashilo-394-bash-for-bootcamp-
+ 1301  ls
+ 1302  cd Mmapitso-Mashilo-394-bash-for-bootcamp-
+ 1303  ls
+ 1304  cd ..
+ 1305  ls
+ 1306  cd Mmapitso-Mashilo-394-bash-for-bootcamp-
+ 1307  ls
+ 1308  git add .
+ 1309  git commit -m 'Add all md files from question 1 to question 13'
+ 1310  git branch
+ 1311  git push origin main
+ 1312  ls
+ 1313  cd Documents
+ 1314  cd UMUZI
+ 1315  ls
+ 1316  cd level_1_coding_challenges/
+ 1317  ls
+ 1318  git clone git@github.com:Umuzi-org/Mmapitso-Mashilo-219-level-1-programming-katas-javascript.git
+ 1319  git branch
+ 1320  ls
+ 1321  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript/
+ 1322  ls
+ 1323  git branch
+ 1324  git checkout main
+ 1325  git pull
+ 1326  git checkout -b task/1
+ 1327  ls
+ 1328  mv ../task1.js .
+ 1329  ls
+ 1330  git add task1.js
+ 1331  git commit -m 'Add task1.js'
+ 1332  git branch
+ 1333  git push origin task/1
+ 1334  git branch
+ 1335  git status
+ 1336  git checkout main
+ 1337  git branch
+ 1338  git checkout -b task/2
+ 1339  mv ../task2.js .
+ 1340  ls
+ 1341  git add task2.js
+ 1342  git commit -m 'Add task2.js'
+ 1343  git push origin task/2
+ 1344  git checkout main
+ 1345  git branch
+ 1346  git checkout -b task/3
+ 1347  mv ../task3.js .
+ 1348  ls
+ 1349  git add task3.js
+ 1350  git commit -m 'Add task3.js'
+ 1351  git push origin task/3
+ 1352  ls
+ 1353  git checkout main
+ 1354  ls
+ 1355  git checkout task/1
+ 1356  ls
+ 1357  git checkout main
+ 1358  git branch
+ 1359  git checkout -b task/4
+ 1360  ls
+ 1361  mv ../task4.js .
+ 1362  ls
+ 1363  git add task4.js
+ 1364  git commit -m 'Add task4.js'
+ 1365  git push origin task/4
+ 1366  ls
+ 1367  git checkout main
+ 1368  git branch
+ 1369  git checkout -b task/5
+ 1370  ls
+ 1371  mv ../task5.js .
+ 1372  ls
+ 1373  git add task5.js
+ 1374  git commit -m 'Add task5.js'
+ 1375  git push origin task/5
+ 1376  ls
+ 1377  git checkout main
+ 1378  git branch
+ 1379  git checkout -b task/6
+ 1380  mv ../task6.js .
+ 1381  ls
+ 1382  git add task6.js
+ 1383  git commit -m 'Add task6.js'
+ 1384  git push origin task/6
+ 1385  git checkout main
+ 1386  ls
+ 1387  git branch
+ 1388  git checkout -b task/7
+ 1389  mv ../task7.js .
+ 1390  ls
+ 1391  git add task7.js
+ 1392  git commit -m 'Add task7.js'
+ 1393  git push origin task/7
+ 1394  ls
+ 1395  cd ..
+ 1396  ls
+ 1397  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript/
+ 1398  ls
+ 1399  git branch
+ 1400  ls
+ 1401  cp task7.js Mmapitso-Mashilo-219-level-1-programming-katas-javascript
+ 1402  ls
+ 1403  pwd
+ 1404  clear
+ 1405  ls
+ 1406  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript
+ 1407  cat Mmapitso-Mashilo-219-level-1-programming-katas-javascript 
+ 1408  rm Mmapitso-Mashilo-219-level-1-programming-katas-javascript 
+ 1409  ls
+ 1410  git checkout main
+ 1411  ls
+ 1412  git branch
+ 1413  cd ..
+ 1414  ls
+ 1415  cd person
+ 1416  git clone git@github.com:Umuzi-org/Mmapitso-Mashilo-223-person-javascript.git
+ 1417  ls
+ 1418  cp person.js ./Mmapitso-Mashilo-223-person-javascript/person.js
+ 1419  cd Mmapitso-Mashilo-223-person-javascript/
+ 1420  ls
+ 1421  git branch
+ 1422  git checkout -b person
+ 1423  git add person.js
+ 1424  git commit -m 'Add person.js'
+ 1425  git push origin person
+ 1426  cd ..
+ 1427  mkdir tdd
+ 1428  cd tdd
+ 1429  touch question_1.md
+ 1430  touch question_2.md
+ 1431  touch question_3.md
+ 1432  touch question_4.md
+ 1433  touch question_5.md
+ 1434  touch question_6.md
+ 1435  cd Documents
+ 1436  cd UMUZI
+ 1437  ls
+ 1438  cd tdd
+ 1439  ls
+ 1440  git clone git@github.com:Umuzi-org/Mmapitso-Mashilo-963-contentitem-.git
+ 1441  cd Mmapitso-Mashilo-963-contentitem-/
+ 1442  ls
+ 1443  cp ../question_1.md .
+ 1444  ls
+ 1445  cp ../question_2.md .
+ 1446  cp ../question_3.md .
+ 1447  cp ../question_4.md .
+ 1448  cp ../question_5.md .
+ 1449  cp ../question_6.md
+ 1450  cp ../question_6.md .
+ 1451  ls
+ 1452  git add .
+ 1453  git commit -m 'Add markdown files with answers to the test-driven development questions'
+ 1454  git push origin main
+ 1455  cd Documents/UMUZI
+ 1456  cd person
+ 1457  node person.js
+ 1458  ls
+ 1459  cd Mmapitso-Mashilo-223-person-javascript/
+ 1460  ls
+ 1461  git branch
+ 1462  git add person.js
+ 1463  git commit -m 'Fixed constructor and ensured function works according to given example'
+ 1464  git push origin person
+ 1465  git status
+ 1466  ls
+ 1467  rm person.js
+ 1468  cp ../person.js ./person.js
+ 1469  l
+ 1470  ls
+ 1471  git branch
+ 1472  git add person.js
+ 1473  git commit -m 'Uploaded correct file'
+ 1474  git push origin person
+ 1475  cd Documents/UMUZI/beginning_bash
+ 1476  ls
+ 1477  cd Mmapitso-Mashilo-394-bash-for-bootcamp-/
+ 1478  ls
+ 1479  cat question_4.md
+ 1480  cat question_8.md
+ 1481  cat question_12.md
+ 1482  cat question_13.md
+ 1483  clear
+ 1484  git add question_4.md question_8.md question_12.md question_13.md
+ 1485  git status
+ 1486  git commit -m 'Revised answer in question_8.md and fixed typos in question_4.md, question_12.md and question_13.md'
+ 1487  cd ..
+ 1488  cd tdd
+ 1489  ls
+ 1490  cd Mmapitso-Mashilo-963-contentitem-/
+ 1491  ls
+ 1492  git add .
+ 1493  git commit -m 'Fixed formatting'
+ 1494  git push origin main
+ 1495  cd `
+ 1496  ~
+ 1497  cd ~
+ 1498  ls
+ 1499  pwd
+ 1500  cd alx_be_python
+ 1501  ls
+ 1502  mkdir fns_and_dsa
+ 1503  cd fns_and_dsa
+ 1504  touch arithmetic_operations.py
+ 1505  code arithmetic_operations.py
+ 1506  ls
+ 1507  cd ..
+ 1508  ls
+ 1509  git add fns_and_dsa
+ 1510  git commit -m 'Add fns_and_da directory containing the arithmetic operations script'
+ 1511  cd fns_and_dsa/
+ 1512  ls
+ 1513  python main.py
+ 1514  python3 main.py
+ 1515  git status
+ 1516  git add arithmetic_operations.py 
+ 1517  git commit -m 'Changed the function to return floats instead of integers'
+ 1518  python3 main.py
+ 1519  git push origin main
+ 1520  git status
+ 1521  git add arithmetic_operations.py 
+ 1522  git commit -m 'Changed the parameter function from operator to operation'
+ 1523  git push origin main
+ 1524  python3 main.py
+ 1525  git add arithmetic_operations.py 
+ 1526  git commit -m 'Changed logic from match case to if/else'
+ 1527  git push origin main
+ 1528  python3 main.py
+ 1529  git add arithmetic_operations.py 
+ 1530  git commit -m 'Replaced try/except block for checking zero divison with equal operator that checks whether the second number is equal to zero'
+ 1531  git push origin main
+ 1532  cd Documents/Umuzi
+ 1533  ls
+ 1534  cd level_1_coding_challenges/
+ 1535  ls
+ 1536  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript/
+ 1537  ls
+ 1538  git branch
+ 1539  git checkout main
+ 1540  git checkout task/6
+ 1541  ls
+ 1542  code task6.js
+ 1543  git status
+ 1544  git add task6.js
+ 1545  git commit -m 'Removed self-explanatory comments from code'
+ 1546  git push origin task/6
+ 1547  cat task6.js
+ 1548  clear
+ 1549  ls
+ 1550  git checkout task/2
+ 1551  ls
+ 1552  code task2.js
+ 1553  git branch
+ 1554  ls
+ 1555  cat task2.js
+ 1556  git status
+ 1557  git add task2.js
+ 1558  git commit -m 'Changed from printing an error to throwing an error'
+ 1559  node task2.js
+ 1560  git add task2.js
+ 1561  git commit -m 'Changed the logic that checks whether one of the numbers is three and that the sum of the numbers contains a three'
+ 1562  git push origin task/2
+ 1563  cat task2.js
+ 1564  clear
+ 1565  ls
+ 1566  git branch
+ 1567  git checkout task/7
+ 1568  ls
+ 1569  code task7.js
+ 1570  git branch
+ 1571  node task7.js
+ 1572  git branch
+ 1573  node task7.js
+ 1574  cd Documents/Umuzi
+ 1575  ls
+ 1576  cd level_1_coding_challenges/
+ 1577  ls
+ 1578  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript/
+ 1579  ls
+ 1580  git branch
+ 1581  node task7.js
+ 1582  node task7.js 
+ 1583  node task7.js
+ 1584  git branch
+ 1585  git add task7.js
+ 1586  git log
+ 1587  git status
+ 1588  git commit -m 'Fixed combine function so that it does not push undefined items into array'
+ 1589  git push origin task/7
+ 1590  node task7.js
+ 1591  git add task7.js
+ 1592  git commit -m 'Fixed remaining elements function'
+ 1593  git push origin task/7
+ 1594  cd ..
+ 1595  cd ~
+ 1596  ls
+ 1597  cd alx_be_python
+ 1598  ls
+ 1599  cd fns_and_dsa
+ 1600  ls
+ 1601  touch shopping_list_manager.py
+ 1602  python3 shopping_list_manager.py 
+ 1603  python3 shopping_list_manager.py
+ 1604  python3 shopping_list_manager.py 
+ 1605  python3 shopping_list_manager.py
+ 1606  python3 shopping_list_manager.py 
+ 1607  git branch
+ 1608  git add shopping_list_manager.py 
+ 1609  git commit -m 'Add shopping list script'
+ 1610  git push origin main
+ 1611  git add shopping_list_manager.py 
+ 1612  git commit -m 'Changed prompt message to add items to the shopping list'
+ 1613  git push origin main
+ 1614  ls
+ 1615  touch explore_datetime.py
+ 1616  python3 explore_datetime.py
+ 1617  python3 explore_datetime.py 
+ 1618  git add explore_datetime.py 
+ 1619  git commit -m 'Add explore_date script'
+ 1620  git push origin main
+ 1621  git add explore_datetime.py 
+ 1622  git commit -m 'Fixed function name from display_date to display_datetime which is the correct function name'
+ 1623  git push origin main
+ 1624  python3 explore_datetime.py 
+ 1625  git add explore_datetime.py 
+ 1626  git commit -m 'Fixed format of the current date'
+ 1627  git push origin main
+ 1628  python3 explore_datetime.py 
+ 1629  git add explore_datetime.py 
+ 1630  git commit -m 'Added date formatter to future_date function'
+ 1631  git push origin main
+ 1632  touch temp_conversion_tool.py
+ 1633  python3 temp_conversion_tool.py 
+ 1634  python3 explore_datetime.py 
+ 1635  python3 temp_conversion_tool.py 
+ 1636  git add temp_conversion_tool.py 
+ 1637  git commit -m 'Add temperature conversion script'
+ 1638  git push origin main
+ 1639  git add temp_conversion_tool.py 
+ 1640  git commit -m 'Changed ValueError print statement'
+ 1641  git push origin main
+ 1642  /bin/python3
+ 1643  cd Documents/Umuzi
+ 1644  ls
+ 1645  mkdir git_basic_exercise
+ 1646  cd git_basic_exercise/
+ 1647  ls
+ 1648  cd ..
+ 1649  rm git_basic_exercise/
+ 1650  rm -r git_basic_exercise/
+ 1651  ls
+ 1652  mkdir git-basic-exercises
+ 1653  cd git-basic-exercises/
+ 1654  ls -a
+ 1655  git init
+ 1656  ls -a
+ 1657  git status
+ 1658  touch README.md
+ 1659  ls
+ 1660  ls -a
+ 1661  git status
+ 1662  git add README.md 
+ 1663  git status
+ 1664  cd ~
+ 1665  ls
+ 1666  cd alx_be_python/
+ 1667  ls
+ 1668  cd Documents/Umuzi
+ 1669  ls
+ 1670  cd git-basic-exercises/
+ 1671  ls
+ 1672  git status
+ 1673  git reset
+ 1674  git status
+ 1675  git add README.md 
+ 1676  git commit -m 'initial commit'
+ 1677  git log
+ 1678  nano README.md
+ 1679  cat README.md
+ 1680  nano README.md 
+ 1681  git tatus
+ 1682  git status
+ 1683  git add README.md 
+ 1684  git commit -m 'second commit'
+ 1685  nano README.md 
+ 1686  git add README.md 
+ 1687  git commit -m 'third commit'
+ 1688  git log
+ 1689  git checkout 977f9f093833428bc678b1daef9e38e5c3f57507
+ 1690  git checkout main
+ 1691  git branch
+ 1692  git checkout -b milkshake-flavours
+ 1693  git branch
+ 1694  nano milkshakes.md
+ 1695  git status
+ 1696  git add milkshakes.md 
+ 1697  git commit -m 'added initial flavours'
+ 1698  git log
+ 1699  git checkout main
+ 1700  git checkout -b history
+ 1701  git checkout main
+ 1702  git log
+ 1703  git branch
+ 1704  git log
+ 1705  git checkout milkshake-flavours
+ 1706  ls
+ 1707  git status
+ 1708  git checkout history
+ 1709  git log
+ 1710  git branch
+ 1711  history > history.txt
+ 1712  ls
+ 1713  git add history.txt 
+ 1714  git commit -m 'added history'
+ 1715  git log
+ 1716  git checkout milkshake-flavours
+ 1717  ls
+ 1718  git log
+ 1719  git branch
+ 1720  nls
+ 1721  ls
+ 1722  nano milkshakes.md 
+ 1723  git add milkshakes.md 
+ 1724  git commit -m 'random readme changes'
+ 1725  git checkout history
+ 1726  cat README.md
+ 1727  rm README.md
+ 1728  echo "booya" > README.md
+ 1729  git add README.md 
+ 1730  git commit -m 'rewrote readme'
+ 1731  git checkout main
+ 1732  ls
+ 1733  git log
+ 1734  git checkout milkshake-flavours
+ 1735  ls
+ 1736  git log
+ 1737  git checkout history
+ 1738  ls
+ 1739  git log
+ 1740  git checkout main
+ 1741  git merge milkshake-flavours
+ 1742  ls
+ 1743  git branch
+ 1744  git merge history
+ 1745  git log
+ 1746  git branch
+ 1747  git checkout history
+ 1748  git merge main
+ 1749  git checkout main
+ 1750  git log
+ 1751  git remote add origin git@github.com:itspitso/git-basic-exercises.git
+ 1752  git branch -M main
+ 1753  git push -u origin main
+ 1754  git branch
+ 1755  git checkout history
+ 1756  git status
+ 1757  git push origin history
+ 1758  git checkout milkshake-flavours
+ 1759  git status
+ 1760  git push origin milkshake-flavours
+ 1761  git checkout main
+ 1762  git branch
+ 1763  cd ..
+ 1764  pwd
+ 1765  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1766  ls
+ 1767  cd a-repo-to-clone/
+ 1768  git branch
+ 1769  git log
+ 1770  git checkout a-branch-with-a-few-commits
+ 1771  git branch
+ 1772  git remote -v
+ 1773  git log
+ 1774  ls
+ 1775  cd ..
+ 1776  ls
+ 1777  mkdir this-will-be-another-repomkdir this-will-be-another-repo
+ 1778  ls
+ 1779  rm -r this_will-be-another-repomkdir
+ 1780  ls
+ 1781  rm -r this-will-be-another-repomkdir
+ 1782  ls
+ 1783  cd this-will-be-another-repo/
+ 1784  git init
+ 1785  touch README.md
+ 1786  git add README.md 
+ 1787  git commit -m 'inital commit'
+ 1788  cd ..
+ 1789  cd git-basic-exercises/
+ 1790  git log
+ 1791  cd Documents/Umuzi
+ 1792  ls
+ 1793  cd level_1_coding_challenges/
+ 1794  ls
+ 1795  cd Mmapitso-Mashilo-219-level-1-programming-katas-javascript/
+ 1796  ls
+ 1797  code task7.js
+ 1798  cat task7.js
+ 1799  git branch
+ 1800  git add task7.js 
+ 1801  git commit -m 'Removed function call'
+ 1802  git push origin task/7
+ 1803  cd ..
+ 1804  cd git-basic-exercises/
+ 1805  ls
+ 1806  git branch
+ 1807  touch ignore-me.db
+ 1808  ls
+ 1809  git status
+ 1810  nano .gitignore
+ 1811  git status
+ 1812  mkdir large-directory-that-should-be-local-only
+ 1813  ls
+ 1814  cd large-directory-that-should-be-local-only/
+ 1815  touch README.md
+ 1816  nano README.md
+ 1817  ls
+ 1818  cd ..
+ 1819  git status
+ 1820  nano .gitignore
+ 1821  git status
+ 1822  git add .gitignore
+ 1823  git commit -m "added .gitignore"
+ 1824  git push origin main
+ 1825  ls
+ 1826  cd ..
+ 1827  cd ~
+ 1828  ls
+ 1829  cd alx_be_python
+ 1830  ls
+ 1831  mkdir programming_paradigm
+ 1832  cd programming_paradigm/
+ 1833  ls
+ 1834  touch touch bank_account.py
+ 1835  code bank_account.py
+ 1836  touch main-0.py
+ 1837  python3 main-0.py deposit:50
+ 1838  python3 main-0.py deposit:170
+ 1839  python3 main-0.py display
+ 1840  python3 main-0.py deposit:90
+ 1841  python3 main-0 display
+ 1842  python3 main-0.py display
+ 1843  git status
+ 1844  cd ..
+ 1845  git status
+ 1846  ls
+ 1847  cd Documents/Umuzi
+ 1848  ls
+ 1849  cd git-basic-exercises/
+ 1850  ls
+ 1851  cat README.md
+ 1852  git branch
+ 1853  git merge milkshake-flavours
+ 1854  ls
+ 1855  git log
+ 1856  git merge history
+ 1857  git checkout history
+ 1858  ls
+ 1859  cat README.md
+ 1860  git checkout milkshake-flavours 
+ 1861  cat README.md
+ 1862  git status
+ 1863  git checkout main
+ 1864  ls
+ 1865  cat README.md
+ 1866  git branch
+ 1867  git merge history
+ 1868  ls
+ 1869  git checkout history
+ 1870  ls
+ 1871  mv README.md README.md
+ 1872  git branch
+ 1873  cat README.md
+ 1874  git checkout milkshake-flavours 
+ 1875  cat README.md
+ 1876  ls
+ 1877  git checkout history
+ 1878  ls
+ 1879  cd ~
+ 1880  ls
+ 1881  d alx_be_python/
+ 1882  cd alx_be_python/
+ 1883  ls
+ 1884  cd programming_paradigm/
+ 1885  ls
+ 1886  git status
+ 1887  nano .gitignore
+ 1888  ls
+ 1889  rm touch
+ 1890  ls
+ 1891  nano .gitgnore
+ 1892  cd ..
+ 1893  git add programming_paradigm/
+ 1894  git commit -m 'Add programming paradigm directory'
+ 1895  cd programming_paradigm/
+ 1896  ls
+ 1897  cd ..
+ 1898  git push origin main
+ 1899  ls
+ 1900  python3 main-0.py deposit:50
+ 1901  cd programming_paradigm/
+ 1902  python3 main-0.py deposit:50
+ 1903  python3 main-0.py display
+ 1904  git add bank_account.py 
+ 1905  git commit -m 'Fixed account_balance variable'
+ 1906  git push origin main
+ 1907  python3 main-0 deposit:50
+ 1908  python3 main-0.py deposit:50
+ 1909  python3 main-0.py display
+ 1910  python3 main-0.py withdraw:20
+ 1911  python3 main-0.py display
+ 1912  python3 main-0.py deposit:50
+ 1913  python3 main-0.py display
+ 1914  python3 main-0.py deposit:20
+ 1915  python3 main-0.py withdraw:30
+ 1916  git add bank_account.py 
+ 1917  git commit -m 'Added default attribute value'
+ 1918  git push origin main
+ 1919  python3 main-0.py deposit:50
+ 1920  python3 main-0.py display
+ 1921  git add bank_account.py 
+ 1922  git commit -m 'Fix string format for the display method'
+ 1923  git push origin main
+ 1924  ls
+ 1925  touch robust_division_calculator.py
+ 1926  touch main.py
+ 1927  python3 main.py 2,3
+ 1928  python3 main.py 2 3
+ 1929  python3 main.py 2 4
+ 1930  python3 main.py 6 2
+ 1931  python3 main.py 4 2
+ 1932  python3 main.py 2 0
+ 1933  python3 main.py ten 2
+ 1934  python3 main.py 2 0
+ 1935  python3 main.py 2 2
+ 1936  python3 main.py two 2
+ 1937  python3 main.py 2 2
+ 1938  python3 main.py 2 0
+ 1939  python3 main.py one two
+ 1940  python3 main.py 3 
+ 1941  2python3 main.py 3 2
+ 1942  python3 main.py 3 4
+ 1943  python3 main.py 5 0
+ 1944  git add robust_division_calculator.py 
+ 1945  git commit -m 'Add robust division calculator'
+ 1946  git push origin main
+ 1947  git add robust_division_calculator.py 
+ 1948  git commit -m 'Fixed string to print when catching zero division error'
+ 1949  git push origin main
+ 1950  git add robust_division_calculator.py 
+ 1951  git commit -m 'Fixed string to print when catching value error'
+ 1952  git push origin main
+ 1953  git add robust_division_calculator.py 
+ 1954  git commit -m 'Fixed return statement in else block'
+ 1955  git push origin main
+ 1956  git add robust_division_calculator.py 
+ 1957  git commit -m 'Added full stop to return print statement'
+ 1958  git push origin main
+ 1959  git add robust_division_calculator.py 
+ 1960  git commit -m 'Fix print statement'
+ 1961  git add robust_division_calculator.py 
+ 1962  git commit -m 'Fix print statement'
+ 1963  git push origin main
+ 1964  git add robust_division_calculator.py 
+ 1965  git commit -m 'Fixed print statement'
+ 1966  git push origin main
+ 1967  touch test_simple_calculator.py
+ 1968  touch simple_calculator.py
+ 1969  ls
+ 1970  python3 -m unittest test_simple_calculator.py
+ 1971  python -m unittest test_simple_calculator.py
+ 1972  python3 -m unittest test_simple_calculator.py
+ 1973  git add test_simple_calculator.py 
+ 1974  git commit -m 'Added tests for simple calculator'
+ 1975  git push origin main
+ 1976  git add test_simple_calculator.py 
+ 1977  git commit -m 'Changed test_multiply to test_multiplication'
+ 1978  git push origin main
+ 1979  git add test_simple_calculator.py 
+ 1980  git commit -m 'Changed test_division to test_divide'
+ 1981  git push origin main
+ 1982  git add test_simple_calculator.py 
+ 1983  git commit -m 'Changed from test_divide to test_division'
+ 1984  git push origin main
+ 1985  touch library_management.py
+ 1986  python3 main.py
+ 1987  git add library_management.py 
+ 1988  git commit -m 'Add library_management.py'
+ 1989  git push origin main
+ 1990  python3 main.py
+ 1991  git add library_management.py 
+ 1992  git commit -m 'Fixed return_book function'
+ 1993  git push origin main
+ 1994  git add library_management.py 
+ 1995  git commit -m 'Fixed variable name for list of available books'
+ 1996  git push origin main
+ 1997  cd Documents/Umuzi
+ 1998  l
+ 1999  ls
+ 2000  cd git-basic-exercises/
+ 2001  ls
+ 2002  cd ..
+ 2003  mv git-basic-exercises git-basic
+ 2004  ls
+ 2005  mkdir git-basic-exercises
+ 2006  cd git-basic-exercises/
+ 2007  ls
+ 2008  git init
+ 2009  ls -a
+ 2010  git status
+ 2011  clear
+ 2012  touch README.md
+ 2013  ls -a
+ 2014  git status
+ 2015  clear
+ 2016  git log
+ 2017  git add README.md 
+ 2018  git status
+ 2019  git reset
+ 2020  git status
+ 2021  clear
+ 2022  git add README.md 
+ 2023  git commit -m 'initial commit'
+ 2024  git log
+ 2025  nano README.md
+ 2026  cat README.pd
+ 2027  cat README.md
+ 2028  git status
+ 2029  clear
+ 2030  git add README.md 
+ 2031  git commit -m 'second commit'
+ 2032  git push origin main
+ 2033  nano README.md 
+ 2034  cat README.md 
+ 2035  clear
+ 2036  git add README.md 
+ 2037  git commit -m 'third commit'
+ 2038  git log
+ 2039  clear
+ 2040  git log
+ 2041  git checkout support@thecourierguy.co.za
+ 2042  git checkout 7c675be21856a8217069cae609beee44eddb0479
+ 2043  cat README.md 
+ 2044  git checkout main
+ 2045  clear
+ 2046  cat README.md 
+ 2047  git branch
+ 2048  git checkout -b milkshake-flavours
+ 2049  git branch
+ 2050  nano milkshakes.md
+ 2051  git status
+ 2052  git add milkshakes.md 
+ 2053  git commit -m 'added initial flavours'
+ 2054  git log
+ 2055  clear
+ 2056  git checkout main
+ 2057  git log
+ 2058  clear
+ 2059  git checkout -b history
+ 2060  git log
+ 2061  git branch
+ 2062  clear
+ 2063  history > history.txt
