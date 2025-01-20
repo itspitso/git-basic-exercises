@@ -1,3 +1,5 @@
-Git basic exercises
+Git basic exercises.
 
-More changes to the README.md file
+More changes to the README.md file.
+
+Random changes.
